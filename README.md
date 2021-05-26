@@ -6,7 +6,7 @@ Gathering data from hand-writing images datasets, which are quite difficult to c
 
 With just 4.0 val_loss as the result, it is hoped that a bigger dataset can help the model to perform better. Currently, using deep learning for NLP is still popular and it is dominant around the world
 
-Thanks to my teacher Hoang Son of USTH for let me join the project
-Thanks to sil.org where I could get the handwriting datasets
-Thanks to text scanner for scanning Hre and Vietnamese words
-Special thanks to my girlfriend who helped me do the blue collar work (white collar according to her) such as re-writing correct rows
+Thanks to my teacher Hoang Son of USTH for let me join the project <br>
+Thanks to sil.org where I could get the handwriting datasets<br>
+Thanks to text scanner for scanning Hre and Vietnamese words<br>
+Special thanks to my girlfriend who helped me do the blue collar work (white collar according to her) such as re-writing correct rows<br>
