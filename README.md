@@ -9,4 +9,4 @@ With just 4.0 val_loss as the result, it is hoped that a bigger dataset can help
 Thanks to my teacher Hoang Son of USTH for let me join the project <br>
 Thanks to sil.org where I could get the handwriting datasets<br>
 Thanks to text scanner for scanning Hre and Vietnamese words<br>
-Special thanks to my girlfriend who helped me do the blue collar work (white collar according to her) such as re-writing correct rows<br>
+Special thanks to my girlfriend who helped me do the blue collar work (white collar according to her) such as re-writing incorrect rows<br>
